@@ -1,0 +1,9 @@
+{
+  "heading": "JSON example",
+  "items": {
+    "item1": "Пункт 1",
+    "item2": "Пункт 2",
+    "item3": "Пункт 3",
+    "item4": "Пункт 4"
+  }
+}

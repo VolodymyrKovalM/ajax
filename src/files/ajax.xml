@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<wrapper>
+    <heading>XML example</heading>
+    <items>
+        <item>Пункт 1</item>
+        <item>Пункт 2</item>
+        <item>Пункт 3</item>
+        <item>Пункт 4</item>
+    </items>
+</wrapper>
